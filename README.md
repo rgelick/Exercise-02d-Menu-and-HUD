@@ -20,4 +20,3 @@ Advanced features?
 
 ## Created by
 Ross Gelick
-```
